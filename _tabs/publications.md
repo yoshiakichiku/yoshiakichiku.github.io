@@ -4,7 +4,7 @@ icon: fas fa-book
 order: 2
 ---
 
-# Publications
+## First-author Publications
 
 ### 2026
 
