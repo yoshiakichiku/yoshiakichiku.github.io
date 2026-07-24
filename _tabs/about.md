@@ -1,8 +1,36 @@
 ---
 # the default layout is 'page'
+title: About
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# Yoshiaki Chiku, MD
+
+I am an ophthalmologist and clinical researcher at Shinshu University School of Medicine, Japan.
+
+My research focuses on retinal imaging, particularly wide-field optical coherence tomography (OCT), quantitative image analysis, and reproducible clinical research.
+
+## Research Interests
+
+- Wide-field OCT
+- Retinal image analysis
+- Quantitative ophthalmic imaging
+- Diabetic retinal diseases
+- Reproducible research
+- Statistical analysis using R
+
+## This Website
+
+This website serves as a platform to share:
+
+- Research projects
+- Publications
+- Open-source software
+- Statistical analysis code
+- Educational resources
+- Research blog
+
+## GitHub
+
+GitHub: https://github.com/yoshiakichiku
