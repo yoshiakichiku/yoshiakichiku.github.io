@@ -4,6 +4,14 @@ icon: fas fa-book
 order: 2
 ---
 
+## Publication Summary
+
+- Peer-reviewed English publications: 
+- First-author publications: 7
+- Co-author publications: 
+
+Research interests include wide-field OCT, diabetic retinal diseases, and retinal imaging.
+
 # First-author Publications
 
 ## 2026
