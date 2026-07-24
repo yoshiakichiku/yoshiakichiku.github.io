@@ -1,18 +1,21 @@
+```markdown
 ---
+layout: page
 title: Publications
-icon: fas fa-book
-order: 2
+permalink: /publications/
 ---
+
+# Publications
 
 ## Publication Summary
 
-- Peer-reviewed English publications: 
-- First-author publications: 7
-- Co-author publications: 
+- **Peer-reviewed English publications:** 14
+- **First-author publications:** 7
+- **Co-author publications:** 7
 
-Research interests include wide-field OCT, diabetic retinal diseases, and retinal imaging.
+**Research areas:** Wide-field OCT • Diabetic retinal diseases • Retinal imaging • Measurement reproducibility
 
-# First-author Publications
+---
 
 ## 2026
 
@@ -22,9 +25,27 @@ Research interests include wide-field OCT, diabetic retinal diseases, and retina
 
 *Scientific Reports*. 2026;16:21784.
 
-**Links:**
-- [PubMed](https://pubmed.ncbi.nlm.nih.gov/42120677/)
-- [DOI](https://doi.org/10.1038/s41598-026-53112-3)
+**Links:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/42120677/) | [DOI](https://doi.org/10.1038/s41598-026-53112-3)
+
+---
+
+### Axial length correction in retinal thickness measurements in diabetic retinopathy
+
+Mukawa S, Hirano T, **Chiku Y**, Kajiwara S, Sekiya E, Fujihara H, Tomihara R, Ito S, Hoshiyama K, Kakihara S, Murata T.
+
+*Japanese Journal of Ophthalmology*. 2026. Online ahead of print.
+
+**Links:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/42371272/) | [DOI](https://doi.org/10.1007/s10384-026-01393-6)
+
+---
+
+### Short-term intraocular pressure changes following intravitreal aflibercept 8 mg versus 2 mg in diabetic macular edema: a prospective observational study
+
+Hoshiyama K, Hirano T, Sekiya E, Kajiwara S, Mukawa S, **Chiku Y**, Nakamura M, Yoshida N, Murata T.
+
+*Scientific Reports*. 2026. Online ahead of print.
+
+**Links:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/42215651/) | [DOI](https://doi.org/10.1038/s41598-026-55363-6)
 
 ---
 
@@ -36,9 +57,9 @@ Research interests include wide-field OCT, diabetic retinal diseases, and retina
 
 *Ophthalmology Science*. 2025;5(6):100888.
 
-**Links:**
-- [PubMed](https://pubmed.ncbi.nlm.nih.gov/40917263/)
-- [DOI](https://doi.org/10.1016/j.xops.2025.100888)
+**Links:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/40917263/) | [DOI](https://doi.org/10.1016/j.xops.2025.100888)
+
+---
 
 ### Light-adapted electroretinograms of eyes with cataract recorded using the HE-2000 system before and after mydriasis
 
@@ -46,9 +67,27 @@ Research interests include wide-field OCT, diabetic retinal diseases, and retina
 
 *Scientific Reports*. 2025;15(1):24695.
 
-**Links:**
-- [PubMed](https://pubmed.ncbi.nlm.nih.gov/40634367/)
-- [DOI](https://doi.org/10.1038/s41598-025-08340-4)
+**Links:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/40634367/) | [DOI](https://doi.org/10.1038/s41598-025-08340-4)
+
+---
+
+### Real-world outcomes, including intraocular inflammation, after intravitreal brolucizumab for diabetic macular edema
+
+Hirano T, **Chiku Y**, Hoshiyama K, Takahashi Y, Ito S, Murata T.
+
+*Japanese Journal of Ophthalmology*. 2025;69(5):724–731.
+
+**Links:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/40500587/) | [DOI](https://doi.org/10.1007/s10384-025-01226-y)
+
+---
+
+### Longitudinal evaluation of cotton wool spot following rapid glycemic improvement using wide-field multimodal imaging
+
+Hoshiyama K, Hirano T, Takahashi Y, **Chiku Y**, Murata T.
+
+*American Journal of Ophthalmology Case Reports*. 2025;37:102245.
+
+**Links:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/39834875/) | [DOI](https://doi.org/10.1016/j.ajoc.2024.102245)
 
 ---
 
@@ -60,9 +99,9 @@ Research interests include wide-field OCT, diabetic retinal diseases, and retina
 
 *Pharmaceuticals (Basel)*. 2024;17(10):1357.
 
-**Links:**
-- [PubMed](https://pubmed.ncbi.nlm.nih.gov/39458998/)
-- [DOI](https://doi.org/10.3390/ph17101357)
+**Links:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/39458998/) | [DOI](https://doi.org/10.3390/ph17101357)
+
+---
 
 ### Assessment of Retinal Volume in Individuals Without Ocular Disorders Based on Wide-Field Swept-Source OCT
 
@@ -70,9 +109,17 @@ Research interests include wide-field OCT, diabetic retinal diseases, and retina
 
 *Ophthalmology Science*. 2024;4(6):100569.
 
-**Links:**
-- [PubMed](https://pubmed.ncbi.nlm.nih.gov/39253553/)
-- [DOI](https://doi.org/10.1016/j.xops.2024.100569)
+**Links:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/39253553/) | [DOI](https://doi.org/10.1016/j.xops.2024.100569)
+
+---
+
+### Reproducibility of Portable OCT and Comparison with Conventional OCT
+
+Hirano T, **Chiku Y**, et al.
+
+*Diagnostics (Basel)*. 2024;14(13):1320.
+
+**Links:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/39001211/) | [DOI](https://doi.org/10.3390/diagnostics14131320)
 
 ---
 
@@ -84,9 +131,19 @@ Research interests include wide-field OCT, diabetic retinal diseases, and retina
 
 *Japanese Journal of Ophthalmology*. 2023;67(3):255–263.
 
-**Links:**
-- [PubMed](https://pubmed.ncbi.nlm.nih.gov/36795332/)
-- [DOI](https://doi.org/10.1007/s10384-023-00980-1)
+**Links:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/36795332/) | [DOI](https://doi.org/10.1007/s10384-023-00980-1)
+
+---
+
+## 2022
+
+### Temporal Change in Anterior Chamber Depth after Combined Vitrectomy and Cataract Surgery Using Different Sizes of Intraocular Lens
+
+Takahashi Y, Hirano T, Nakamura M, **Chiku Y**, Hoshiyama K, Akahane S, Akahane K, Murata T.
+
+*Journal of Clinical Medicine*. 2022;11(21):6430.
+
+**Links:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/36362658/) | [DOI](https://doi.org/10.3390/jcm11216430)
 
 ---
 
@@ -98,22 +155,15 @@ Research interests include wide-field OCT, diabetic retinal diseases, and retina
 
 *Scientific Reports*. 2021;11(1):19754.
 
-**Links:**
-- [PubMed](https://pubmed.ncbi.nlm.nih.gov/34611277/)
-- [DOI](https://doi.org/10.1038/s41598-021-99372-z)
+**Links:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/34611277/) | [DOI](https://doi.org/10.1038/s41598-021-99372-z)
 
 ---
 
-## Open-source software
+### Micropulse laser trabeculoplasty under maximal tolerable glaucoma eyedrops: treatment effectiveness and impact of surgical expertise
 
-- OCT Repeatability Analysis (R)
-- Wide-field OCT image analysis tools
+Kakihara S, Hirano T, Imai A, Kurenuma T, **Chiku Y**, Murata T.
 
----
+*International Journal of Ophthalmology*. 2021;14(3):388–392.
 
-## Profiles
-
-- GitHub
-- ORCID
-- Google Scholar
-- PubMed
+**Links:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/33747814/) | [DOI](https://doi.org/10.18240/ijo.2021.03.09)
+```
