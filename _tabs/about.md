@@ -5,6 +5,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+<p align="center">
+  <img src="/assets/img/profile.jpg" alt="Yoshiaki Chiku" width="220" style="border-radius:50%;">
+</p>
+
 # Yoshiaki Chiku, MD
 
 I am an ophthalmologist and clinical researcher at Shinshu University School of Medicine, Japan.
