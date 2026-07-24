@@ -15,6 +15,11 @@ I am an ophthalmologist and clinical researcher at Shinshu University School of 
 
 My research focuses on retinal imaging, particularly wide-field optical coherence tomography (OCT), quantitative image analysis, and reproducible clinical research.
 
+## Current Position
+
+- Staff Ophthalmologist, Department of Ophthalmology, Shinshu University Hospital
+- Board-Certified Ophthalmologist (Japan)
+
 ## Research Interests
 
 - Wide-field OCT
