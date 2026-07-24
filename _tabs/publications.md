@@ -4,8 +4,6 @@ icon: fas fa-book
 order: 2
 ---
 
-# Publications
-
 ## Publication Summary
 
 - **Peer-reviewed English publications:** 14
