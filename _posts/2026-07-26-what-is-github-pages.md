@@ -1,11 +1,10 @@
 ---
-
 title: "GitHub Pagesとは？"
 date: 2026-07-26 07:30:00 +0900
 categories: [GitHub]
 tags: [GitHub Pages, GitHub, website]
 description: "GitHub Pagesとは何か、その基本的な仕組みを初心者向けに解説します。"
-------------------------------------------------------
+---
 
 GitHub Pagesは、GitHub上に保存したファイルを使って、Webサイトやブログを公開できるサービスです。
 
