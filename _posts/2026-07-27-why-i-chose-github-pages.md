@@ -5,8 +5,6 @@ categories: [Research, Web]
 tags: [GitHub Pages, WordPress, Blog, Research Website]
 ---
 
-# なぜ私はWordPressではなくGitHub Pagesを選んだのか
-
 ホームページを作ろうと考えたとき、多くの人はWordPressを思い浮かべるかもしれません。実際、私も最初はWordPressから始めることを考えていました。
 
 しかし、いろいろ調べて検討した結果、私はまずGitHub Pagesを選ぶことにしました。
