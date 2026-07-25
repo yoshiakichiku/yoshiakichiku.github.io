@@ -84,3 +84,5 @@ GitHub Pagesは無料で利用できます。
 
 現時点では、私にとってGitHub Pagesは「最も始めやすく、最も続けやすい選択」でした。
 
+{% include post-footer.html %}
+
