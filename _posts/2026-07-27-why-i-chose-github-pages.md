@@ -9,7 +9,7 @@ tags: [GitHub Pages, WordPress, Blog, Research Website]
 
 しかし、いろいろ調べて検討した結果、私はまずGitHub Pagesを選ぶことにしました。
 
-これは、「GitHub Pagesの方が優れている」という意味ではありません。私の現在の目的やライフスタイルには、GitHub Pagesの方が合っていると判断したからです。
+「GitHub Pagesの方が優れている」という意味ではなく、私の現在の目的やライフスタイルには、GitHub Pagesの方が合っていると判断したからです。
 
 ## 私がホームページに求めているもの
 
