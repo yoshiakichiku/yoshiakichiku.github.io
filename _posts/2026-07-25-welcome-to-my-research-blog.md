@@ -5,10 +5,6 @@ categories: [Blog]
 tags: [research, welcome]
 ---
 
-# Welcome to My Research Blog
-
-Welcome to my research blog.
-
 I am **Yoshiaki Chiku, MD**, an ophthalmologist and clinical researcher at Shinshu University School of Medicine, Japan. My research focuses on retinal imaging, particularly wide-field optical coherence tomography (OCT), quantitative image analysis, and reproducible clinical research.
 
 I created this website as a place to openly share my research activities, ideas, and technical resources. While scientific papers remain the primary way to communicate research findings, they often cannot include all of the code, implementation details, and practical knowledge developed during a project. My goal is to make those resources more accessible to researchers, clinicians, and students who are interested in ophthalmic imaging and quantitative analysis.
