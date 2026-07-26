@@ -1,11 +1,10 @@
 ---
-
 title: "SPSSとは？"
 date: 2026-07-26 08:30:00 +0900
 categories: [Statistics]
 tags: [SPSS, statistics, data analysis]
 description: "SPSSとは何か、その特徴と研究での利用方法を初心者向けに解説します。"
---------------------------------------------------
+---
 
 ## SPSSとは
 
