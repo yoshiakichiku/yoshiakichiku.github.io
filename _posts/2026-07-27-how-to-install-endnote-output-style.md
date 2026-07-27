@@ -5,8 +5,6 @@ categories: [Research, EndNote]
 tags: [EndNote, Output Style, Reference, Citation]
 ---
 
-# EndNoteでジャーナルの引用スタイル（Output Style）を追加・インストールする方法
-
 論文を投稿する際、多くの学術雑誌では独自の参考文献スタイル（Output Style）が用意されています。
 
 EndNoteでは、このOutput Styleを追加することで、投稿規定に合わせた参考文献を自動で作成できます。
@@ -204,10 +202,5 @@ Output Styleを追加する流れは次の5ステップです。
 
 ---
 
-## 関連記事
-
-- EndNoteでホームページやGitHubを参考文献として登録する方法
-- EndNoteでDOIから文献を自動登録する方法
-- GitHub Repositoryを論文で引用する方法
 
 {% include post-footer.html %}
