@@ -6,8 +6,6 @@ tags: [Repeatability, Repeatability Coefficient, Sw, Bland-Altman, Reliability, 
 math: true
 ---
 
-# Repeatability Coefficientはなぜ2.77×Swなのか？
-
 Repeatability（再現性）の論文では、次の式を目にすることがよくあります。
 
 $$
