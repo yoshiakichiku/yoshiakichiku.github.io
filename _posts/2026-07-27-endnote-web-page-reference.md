@@ -5,8 +5,6 @@ categories: [Research, EndNote]
 tags: [EndNote, GitHub, Web Page, Reference, Citation]
 ---
 
-# EndNoteでホームページやGitHubを参考文献として登録する方法
-
 近年では、論文だけでなくWebサイトやGitHub Repositoryを参考文献として引用する機会が増えています。
 
 例えば、
@@ -73,10 +71,6 @@ Web Page
 | Website Title | Webサイト名 |
 | URL | ページのURL |
 | Access Date | 閲覧日 |
-
-すべて入力できなくても問題ありません。
-
-分かる範囲で入力しておけば、多くの引用スタイルで適切に表示されます。
 
 ---
 
@@ -184,11 +178,5 @@ GitHub Repositoryや研究者ホームページを公開する機会が増えて
 
 ---
 
-## 関連記事
-
-- GitHub Repositoryを論文で引用する方法
-- GitHubで解析コードを公開するメリット
-- EndNoteでDOIから文献を自動登録する方法
-- EndNoteの便利な使い方まとめ
 
 {% include post-footer.html %}
