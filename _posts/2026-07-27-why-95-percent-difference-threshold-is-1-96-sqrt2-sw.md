@@ -1,8 +1,9 @@
 ---
-title: "Repeatability Coefficientはなぜ2.77×Swなのか？95% Difference Thresholdの意味を数式で解説"
+title: "Repeatability Coefficientはなぜ2.77×Swなのか？"
 date: 2026-07-27 00:00:00 +0900
 categories: [Statistics, Research]
 tags: [Repeatability, Repeatability Coefficient, Sw, Bland-Altman, Reliability, Statistics]
+math: true
 ---
 
 # Repeatability Coefficientはなぜ2.77×Swなのか？
